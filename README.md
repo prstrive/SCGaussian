@@ -1,2 +1,3 @@
 # SCGaussian
-[NeurIPS 2024] Structure Consistent Gaussian Splatting with Matching Prior for Few-shot Novel View Synthesis
+
+Because of the patent requirements, we will release our code as soon as possible!

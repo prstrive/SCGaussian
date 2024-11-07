@@ -17,7 +17,6 @@ SCGaussian is a structure consistent Gaussian Splatting method which leverages t
 ```
 git clone https://github.com/prstrive/SCGaussian.git
 
-
 conda env create --file environment.yml
 conda activate scgaussian
 

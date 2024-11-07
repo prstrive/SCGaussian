@@ -36,7 +36,11 @@ Download LLFF dataset from the official [download link](https://drive.google.com
 
 Download DTU dataset from the [official website](https://roboimagedata.compute.dtu.dk/?page_id=36/) and download the mask for evaluation from [this link](https://drive.google.com/file/d/1Yt5T3LJ9DZDiHbtd9PDFNHqJAd7wt-_E/view?usp=sharing).
 
-**Note:** for DTU dataset, you need first run `convert.py` to get the poses and the undistorted images.
+*Note: for DTU dataset, you first need to run `convert.py` to get the poses and the undistorted images.*
+
+**Tanks&Temples Dataset**
+
+For Tanks dataset, we adopt the date format provided by [Nope-NeRF](https://github.com/ActiveVisionLab/nope-nerf), and you can download them from [here](https://www.robots.ox.ac.uk/~wenjing/Tanks.zip).
 
 #### 3. Match Prior Extraction
 

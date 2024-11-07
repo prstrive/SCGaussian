@@ -91,7 +91,7 @@ Our method is developded on 3DGS, and it can read and process your customized da
 ## ⚖ Citation
 If you find our work useful in your research please consider citing our paper:
 ```
-@inproceedings{peng2024eccv,
+@inproceedings{peng2024neurips,
   title={Structure Consistent Gaussian Splatting with Matching Prior for Few-shot Novel View Synthesis},
   author={Peng, Rui and Xu, Wangze and Tang, Luyang and Liao, Liwei and Jiao, Jianbo and Wang, Ronggang},
   booktitle={Thirty-Eighth Conference on Neural Information Processing Systems (NeurIPS)},

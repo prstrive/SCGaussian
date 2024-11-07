@@ -20,8 +20,8 @@ git clone https://github.com/prstrive/SCGaussian.git
 conda env create --file environment.yml
 conda activate scgaussian
 
-git clone https://github.com/ashawkey/diff-gaussian-rasterization --recursive
-git clone https://gitlab.inria.fr/bkerbl/simple-knn.git
+git clone https://github.com/ashawkey/diff-gaussian-rasterization --recursive submodules
+git clone https://gitlab.inria.fr/bkerbl/simple-knn.git submodules
 pip install submodules/diff-gaussian-rasterization submodules/simple-knn
 
 ```

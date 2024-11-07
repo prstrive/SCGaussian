@@ -4,7 +4,7 @@ SCGaussian is a structure consistent Gaussian Splatting method which leverages t
 >
 > Rui Peng, Wangze Xu, Luyang Tang, Liwei Liao, Jianbo Jiao, Ronggang Wang
 >
-> NeurIPS 2024 ([arxiv](https://arxiv.org/abs/2409.03634))
+> NeurIPS 2024 ([arxiv](https://arxiv.org/abs/2411.03637))
 
 <p align="center">
     <img src="./.github/images/sample.gif" width="100%"/>
